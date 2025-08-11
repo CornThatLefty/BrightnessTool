@@ -1,0 +1,11 @@
+bin/
+*.o
+*.a
+*.out
+*.exe
+
+*~
+*.swp
+*.swo
+
+.vscode/
